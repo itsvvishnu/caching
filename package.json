@@ -1,0 +1,17 @@
+{
+  "name": "caching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "tsc": "^2.0.4",
+    "typescript": "^5.5.4"
+  }
+}
